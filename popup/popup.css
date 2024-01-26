@@ -1,0 +1,16 @@
+body {
+  width: 400px;
+  height: 400px;
+  background-color: black;
+}
+h2 {
+  color: white;
+  padding-left: 88px;
+  font-size: 45px;
+}
+h1 {
+  font-size: 67px;
+  font-weight: bold;
+  padding-left: 63px;
+  color: white;
+}
